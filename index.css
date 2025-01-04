@@ -1,0 +1,37 @@
+@font-face {
+    font-family: irani;
+    src: url(fonts/B\ Nazanin+\ Black.ttf);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    height: 80px;
+    width: 100%;
+    background-color: lightblue;
+}
+.sections{
+    display: flex;
+}
+.section1{
+    height: 600px;
+    width: 100%;
+    background-color: lightpink;
+}
+.section2{
+    height: 600px;
+    width: 100%;
+    background-color: lightgreen;
+}
+.section3{
+    height: 100px;
+    width: 100%;
+    background-color: lightcoral;
+}
+.footer{
+    height: 50px;
+    width: 100%;
+    background-color: gray;
+}
